@@ -3,5 +3,19 @@ h1 {
 }
 .strong6 {
 	font-weight: 850;
-	text-decoration: underline red;
+	text-decoration: underline yellow;
+
+}
+.navigationbar {
+	display: block;
+	padding: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color: white;
+}
+
+.tabs {
+	padding: 2px;
+	background-color: grey;
 }
