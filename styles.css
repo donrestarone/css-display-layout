@@ -1,9 +1,11 @@
 h1 {
 	font-size: 50px;
+	background-color: yellow;
+	text-align: center;
 }
 .strong6 {
 	font-weight: 850;
-	text-decoration: underline yellow;
+	text-decoration: underline blue;
 
 }
 .navigationbar {
@@ -16,6 +18,52 @@ h1 {
 }
 
 .tabs {
-	padding: 2px;
+	padding: 10px;
 	background-color: grey;
 }
+
+.firstrow {
+	display: inline-block;
+	/*float: right;*/
+}
+
+.secondrow {
+	display: inline-block;
+	/*float: right;*/
+}
+.bitmaker {
+	text-align: center;
+	background-color: silver;
+	color: white;
+
+}
+
+.firstrowwrapper {
+	margin: auto;
+	width: 50%;
+	margin-top: 10px;	
+}
+
+
+.secondrowwrapper {
+	margin: auto;
+	width: 50%;
+	margin-top: 10px;
+}
+
+.tooltip {
+	background-color: yellow;
+	padding: 10px;
+	margin: auto;
+	text-align: center;
+}
+
+footer {
+	background-color: black;
+	padding: 20px;
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+}
+
+
